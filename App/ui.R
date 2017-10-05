@@ -1,4 +1,4 @@
-shinyServer(
+shinyUI(
   pageWithSidebar(
     headerPanel("큐라레 시뮬레이션"),
     
